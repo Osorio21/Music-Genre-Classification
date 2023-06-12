@@ -83,7 +83,7 @@ the training sets are representative of the corresponding musical genres. The Ge
 
 ---
 
-[Genre Dataset](./data/genre_musical_data.csv) contains 1000 observations and 186 features.
+[Genre Dataset](./data/genre_numerical_data.csv) contains 1000 observations and 186 features.
 
 
 ## Methodology<a id='methodology'></a>
